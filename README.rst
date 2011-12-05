@@ -1,4 +1,4 @@
-XK-1 Examples
+XK-1A Examples
 .............
 
 :Stable release:  1.0.0
@@ -13,7 +13,7 @@ XK-1 Examples
 Key Features
 ============
 
-* Simple examples for the XC-1A development board
+* Simple examples for the XK-1A development board
 * Used to create new project templates in the XDE
 
 
