@@ -9,8 +9,11 @@
     <location>origin</location>
     <name>sw_xk1a_examples</name>
     <maintainer>davelxmos</maintainer>
+    <partnumber>XM-001646-DH</partnumber>
     <release parenthash = "68d239846e2e6313a2782cf38108970fc3f303d1" version = "1.0.0rc0" githash = "bdc1247e56fe5eaf0a025e7c8fee2706bc2ec1e2"></release>
+    <release parenthash = "4a1282a19ce8b901410df22e054e76b22879ba6a" version = "1.0.0rc1"></release>
     <scope>example</scope>
+    <subpartnumber>XM-000838-SW</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
     <template name = "LED Example">
