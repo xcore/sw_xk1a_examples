@@ -1,7 +1,7 @@
 XK-1A Examples
 .............
 
-:Latest release: 1.0.1alpha0
+:Latest release: 1.0.1alpha1
 :Maintainer: davelxmos
 :Description: Code examples for the XK-1A development board.
 
