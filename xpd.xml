@@ -12,9 +12,13 @@
     <partnumber>XM-001646-DH</partnumber>
     <release parenthash = "68d239846e2e6313a2782cf38108970fc3f303d1" version = "1.0.0rc0" githash = "bdc1247e56fe5eaf0a025e7c8fee2706bc2ec1e2"></release>
     <release parenthash = "4a1282a19ce8b901410df22e054e76b22879ba6a" version = "1.0.0rc1" githash = "2f076606dd301bc9316a95e51805ed2341044c63"></release>
+    <release parenthash = "2ff03401f4ad0713fed00e183f7cab8f1093c78e" version = "1.0.1alpha0"></release>
     <subpartnumber>XM-000838-SW</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
+    <xsoftip_exclude>app_xk1a_button</xsoftip_exclude>
+    <xsoftip_exclude>app_xk1a_led</xsoftip_exclude>
+    <xsoftip_exclude>app_xk1a_cycle_led</xsoftip_exclude>
     <scope>example</scope>
     <template name = "LED Example">
         <board>XK-1A</board>
@@ -44,7 +48,4 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
     </template>
-    <xsoftip_exclude>app_xk1a_button</xsoftip_exclude>
-    <xsoftip_exclude>app_xk1a_led</xsoftip_exclude>
-    <xsoftip_exclude>app_xk1a_cycle_led</xsoftip_exclude>
 </xpd>
