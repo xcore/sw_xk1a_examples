@@ -1,21 +1,21 @@
 <?xml version="1.0" ?>
 <xpd>
-    <dependency repo = "xcommon">
-        <githash>3416f530590333980bbe152a9123b16becdb441f</githash>
-        <uri>ssh://git@github.com/xcore/xcommon</uri>
-        <version>1.0.0rc1</version>
-    </dependency>
+    <components>
+        <component description = "A simple demo that flashes leds" type = "demoCode" scope = "Example" path = "app_xk1a_flashing_led" local = "false" id = "app_xk1a_flashing_led" name = "Flashing LED program for the XK-1A board">
+            <keyword>demo</keyword>
+        </component>
+    </components>
     <description>Code examples for the XK-1A development board.</description>
     <location>origin</location>
     <name>sw_xk1a_examples</name>
     <maintainer>davelxmos</maintainer>
     <partnumber>XM-001646-DH</partnumber>
     <release parenthash = "68d239846e2e6313a2782cf38108970fc3f303d1" version = "1.0.0rc0" githash = "bdc1247e56fe5eaf0a025e7c8fee2706bc2ec1e2"></release>
-    <release parenthash = "4a1282a19ce8b901410df22e054e76b22879ba6a" version = "1.0.0rc1"></release>
-    <scope>example</scope>
+    <release parenthash = "4a1282a19ce8b901410df22e054e76b22879ba6a" version = "1.0.0rc1" githash = "2f076606dd301bc9316a95e51805ed2341044c63"></release>
     <subpartnumber>XM-000838-SW</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
+    <scope>example</scope>
     <template name = "LED Example">
         <board>XK-1A</board>
         <description>A project that illuminate a LED.</description>
