@@ -6,7 +6,7 @@
         </component>
     </components>
     <description>Code examples for the XK-1A development board.</description>
-    <location>origin</location>
+    <location>git@github.com:xcore/sw_xk1a_examples</location>
     <name>sw_xk1a_examples</name>
     <maintainer>davelxmos</maintainer>
     <partnumber>XM-001646-DH</partnumber>
@@ -22,32 +22,4 @@
     <xsoftip_exclude>app_xk1a_led</xsoftip_exclude>
     <xsoftip_exclude>app_xk1a_cycle_led</xsoftip_exclude>
     <scope>example</scope>
-    <template name = "LED Example">
-        <board>XK-1A</board>
-        <description>A project that illuminate a LED.</description>
-        <src file = "src/main.xc">sw_xk1a_examples/app_xk1a_led</src>
-        <!-- Empty dependency list since app stands alone -->
-        <dependencies></dependencies>
-    </template>
-    <template name = "Flashing LED Example">
-        <board>XK-1A</board>
-        <description>Flashing LEDs project.</description>
-        <src file = "src/main.xc">sw_xk1a_examples/app_xk1a_flashing_led</src>
-        <!-- Empty dependency list since app stands alone -->
-        <dependencies></dependencies>
-    </template>
-    <template name = "Cycle LED Example">
-        <board>XK-1A</board>
-        <description>Flash and cycle LEDs at different rates.</description>
-        <src file = "src/main.xc">sw_xk1a_examples/app_xk1a_cycle_led</src>
-        <!-- Empty dependency list since app stands alone -->
-        <dependencies></dependencies>
-    </template>
-    <template name = "Button Example">
-        <board>XK-1A</board>
-        <description>Flash and cycle LEDs at different rates and respond to buttons.</description>
-        <src file = "src/main.xc">sw_xk1a_examples/app_xk1a_button</src>
-        <!-- Empty dependency list since app stands alone -->
-        <dependencies></dependencies>
-    </template>
 </xpd>
