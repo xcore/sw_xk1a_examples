@@ -44,4 +44,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
     </template>
+    <xsoftip_exclude>app_xk1a_button</xsoftip_exclude>
+    <xsoftip_exclude>app_xk1a_led</xsoftip_exclude>
+    <xsoftip_exclude>app_xk1a_cycle_led</xsoftip_exclude>
 </xpd>
