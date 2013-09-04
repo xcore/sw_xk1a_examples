@@ -1,9 +1,8 @@
-<Add title here>
-================
+Cycle LED program for the XK-1A board
+========================================
 
-:scope: <Put one of Roadmap, Example, Early Development or General Use>
-:description: <Add one line here>
-:keywords: <Add comma separated list of keywords>
-:boards: <Add comma separated list of supported boards>
+:scope: Example
+:description: A simple demo that cycles leds
+:keywords: demo
 
-<Add description of software block>
+This demo cycles leds.
