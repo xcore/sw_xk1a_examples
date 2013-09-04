@@ -156,8 +156,8 @@
 								<option id = "com.xmos.xc.compiler.option.include.paths.18408630" name="com.xmos.xc.compiler.option.include.paths" superClass="com.xmos.xc.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.xc.compiler.input.79370605" name="XC" superClass="com.xmos.cdt.xc.compiler.input"/>
@@ -269,8 +269,8 @@
 								<option id = "com.xmos.c.compiler.option.include.paths.28183979" name="com.xmos.c.compiler.option.include.paths" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.c.compiler.input.c.36305323" name="C" superClass="com.xmos.cdt.c.compiler.input.c"/>
@@ -388,8 +388,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.cxx.compiler.input.cpp.45071612" name="C++" superClass="com.xmos.cdt.cxx.compiler.input.cpp"/>
@@ -643,8 +643,8 @@
 								<option id = "com.xmos.xc.compiler.option.include.paths.17565170" name="com.xmos.xc.compiler.option.include.paths" superClass="com.xmos.xc.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.xc.compiler.input.73344106" name="XC" superClass="com.xmos.cdt.xc.compiler.input"/>
@@ -756,8 +756,8 @@
 								<option id = "com.xmos.c.compiler.option.include.paths.32524198" name="com.xmos.c.compiler.option.include.paths" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.c.compiler.input.c.57421183" name="C" superClass="com.xmos.cdt.c.compiler.input.c"/>
@@ -875,8 +875,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.cxx.compiler.input.cpp.19823548" name="C++" superClass="com.xmos.cdt.cxx.compiler.input.cpp"/>
@@ -1130,8 +1130,8 @@
 								<option id = "com.xmos.xc.compiler.option.include.paths.17562462" name="com.xmos.xc.compiler.option.include.paths" superClass="com.xmos.xc.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.xc.compiler.input.28281914" name="XC" superClass="com.xmos.cdt.xc.compiler.input"/>
@@ -1243,8 +1243,8 @@
 								<option id = "com.xmos.c.compiler.option.include.paths.6482670" name="com.xmos.c.compiler.option.include.paths" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.c.compiler.input.c.18968048" name="C" superClass="com.xmos.cdt.c.compiler.input.c"/>
@@ -1362,8 +1362,8 @@
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;"/>
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_xk1a_flashing_led}&quot;' />
 
 								</option>
 								<inputType id = "com.xmos.cdt.cxx.compiler.input.cpp.63869014" name="C++" superClass="com.xmos.cdt.cxx.compiler.input.cpp"/>

@@ -6,7 +6,7 @@
 /*
  ============================================================================
  Name        : $(sourceFile)
- Description : Flash and cycle LEDs at different rates and respond to buttons 
+ Description : Flash and cycle LEDs at different rates and respond to buttons
  ============================================================================
 */
 
@@ -31,7 +31,7 @@ int main()
 }
 
 void flashLeds(out port leds, chanend c)
-{  
+{
   timer t;
   unsigned int time;
   int ledVal = 1;
@@ -42,7 +42,7 @@ void flashLeds(out port leds, chanend c)
   leds <: ledVal;
   while (1)
   {
-    
+
     select
     {
       case t when timerafter(time) :> void:
@@ -51,13 +51,13 @@ void flashLeds(out port leds, chanend c)
           leds <: ledVal;
         else
           leds <: 0;
-        
+
         isOn = !isOn;
-        
+
         time += 50000000;
         break;
       }
-      
+
       case c :> ledVal :
       {
         break;
@@ -77,9 +77,9 @@ void buttonListener(in port button, chanend c)
       {
         c <: led;
         led = (led + 1) & 0xF;
-        
+
         button when pinseq(1) :> void;
-        
+
         break;
       }
     }

@@ -6,7 +6,7 @@
 /*
  ============================================================================
  Name        : $(sourceFile)
- Description : Illuminate an LED on the XK-1 card 
+ Description : Illuminate an LED on the XK-1 card
  ============================================================================
  */
 

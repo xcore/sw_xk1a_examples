@@ -6,7 +6,7 @@
 /*
  ============================================================================
  Name        : $(sourceFile)
- Description : Flash and cycle LEDs at different rates 
+ Description : Flash and cycle LEDs at different rates
  ============================================================================
  */
 

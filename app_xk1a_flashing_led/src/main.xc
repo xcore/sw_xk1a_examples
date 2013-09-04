@@ -6,7 +6,7 @@
 /*
  ============================================================================
  Name        : $(sourceFile)
- Description : Flashing LED program for the XK-1 board 
+ Description : Flashing LED program for the XK-1 board
  ============================================================================
  */
 
